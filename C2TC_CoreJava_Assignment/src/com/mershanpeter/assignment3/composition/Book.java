@@ -1,4 +1,4 @@
-package com.mershanpeter.assignment3;
+package com.mershanpeter.assignment3.composition;
 
 public class Book extends Baseclass {
 	

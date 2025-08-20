@@ -1,4 +1,4 @@
-package com.mershanpeter.assignment3;
+package com.mershanpeter.assignment3.Inheritance;
 
 public class Baseclass {
 	
