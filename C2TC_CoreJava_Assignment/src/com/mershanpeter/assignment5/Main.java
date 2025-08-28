@@ -1,5 +1,4 @@
 package com.mershanpeter.assignment5;
-
 import java.util.Scanner;
 
 
